@@ -1,2 +1,2 @@
 # ghaziaga.github.io.
-#sdmecomerce_Integrasi Aplikasi Enterprise
+#Personal Landing Page Muhammad Ghazi Rasyid
